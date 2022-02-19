@@ -15,6 +15,7 @@ TOMB5 (https://github.com/TOMB5/TOMB5)
 REDRIVER2 (https://github.com/OpenDriver2/REDRIVER2)  
 PSn00bSDK (https://github.com/Lameguy64/PSn00bSDK)  
 tinyobjloader (https://github.com/tinyobjloader/tinyobjloader)  
+a-game-engine (https://github.com/ArthCarvalho/a-game-engine)  
 bmp2tim (https://github.com/ColdSauce/psxsdk/blob/master/tools/bmp2tim.c)  
 wav2vag (https://github.com/ColdSauce/psxsdk/blob/master/tools/wav2vag.c)  
 
