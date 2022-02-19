@@ -37,7 +37,7 @@ PSXPlayground expects the following functions in your LUA script:
  - init - This function is called when PSXPlayground launches
  - render - This functions is called every frame
 
-PSXPlayground can:
+PSXPlayground can:  
 Open and draw OBJ files  
 Open and draw BMP sprites and textures  
 Open and play WAV files  
