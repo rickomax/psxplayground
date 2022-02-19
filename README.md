@@ -39,8 +39,8 @@ PSXPlayground expects the following functions in your LUA script:
 
 PSXPlayground can:  
 Open and draw OBJ files  
-Open and draw BMP sprites and textures  
-Open and play WAV files  
+Open and draw BMP sprites and textures (unpalletized only atm)   
+Open and play WAV files (mono only atm)  
 It has all common vector methods: add, sub, mul, div, dot, cross, length, projectOnPlane  
 It has some physics methods: raycast, linecast, sphere-triangle intersection  
 It has all PSX matrix methods: multiplication, point, and vector transform  
