@@ -37,6 +37,15 @@ PSXPlayground expects the following functions in your LUA script:
  - init - This function is called when PSXPlayground launches
  - render - This functions is called every frame
 
+PSXPlayground can:
+Open and draw OBJ files  
+Open and draw BMP sprites and textures  
+Open and play WAV files  
+It has all common vector methods: add, sub, mul, div, dot, cross, length, projectOnPlane  
+It has some physics methods: raycast, linecast, sphere-triangle intersection  
+It has all PSX matrix methods: multiplication, point, and vector transform  
+It has access to all PSX GPU methods: font drawing, fog settings, fov settings, clear color  
+
 As in the actual PSX API, PSXPlayground has methods to deal with Short Vectors (SV - used in rotations), and Long Vectors (LV - used in everything else)
 
 The complete API is a work in progress.
