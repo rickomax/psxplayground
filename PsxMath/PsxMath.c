@@ -3,6 +3,14 @@
 #include <math.h>
 #include <stdlib.h>
 
+//PSX_INT_TYPE is the integer type used to represent the float numbers (long in the current implementation)
+//fixed converts a float number to a fixed one
+//integer converts a fixed number to the rounded integer representation
+//strToFixed converts a float string representation to a fixed number
+//fixedDiv is used to divide a fixed number
+//fixedMul is used to multiply a fixed number
+//fixedMod is used to modulate a fixed number
+
 PSX_INT_TYPE fixed(const float f)
 {
 	return f * ONE;
