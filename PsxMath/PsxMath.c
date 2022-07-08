@@ -10,6 +10,7 @@
 //fixedDiv is used to divide a fixed number
 //fixedMul is used to multiply a fixed number
 //fixedMod is used to modulate a fixed number
+//ONE is the integer constant used to represent 1.0 in memory (4096 in the current implementation)
 
 PSX_INT_TYPE fixed(const float f)
 {
